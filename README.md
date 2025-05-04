@@ -1,7 +1,10 @@
 # 🌱 Intelligent Plant Watering: A Sensor-Driven System for Sri Lanka's Green Thumbs
 
-## 📌 Overview
-This is a Year 1 Mini Collaborative Hardware Project developed under the CHWP module. The system is designed to automate plant watering based on real-time sensor data, helping to reduce water and fertilizer waste in Sri Lankan agriculture.
+This project is a First-Year Collaborative Mini Hardware Project developed as part of the CHWP (Collaborative Hardware Project) module by a team of six undergraduate students. Our goal was to address the problem of water and fertilizer inefficiency in agriculture through a smart, sensor-based solution.
+
+## 📌 Project Overview
+
+The "Intelligent Plant Watering System" is a low-cost, automated irrigation solution that uses real-time sensor data to monitor soil moisture, temperature, humidity, and fertilizer (NPK) levels. The system dynamically adjusts water delivery using a drip irrigation setup to reduce water waste and improve plant health. A supporting web application provides remote access to sensor data via live charts and allows farmers to generate reports for better decision-making.
 
 ## 🎯 Objectives
 - **Primary:** Automate plant watering using soil moisture sensor data
@@ -13,7 +16,7 @@ This is a Year 1 Mini Collaborative Hardware Project developed under the CHWP mo
 - Automated irrigation based on live data
 - Data logging for future analysis and decision-making
 - Wi-Fi-based remote monitoring (ESP32 + SQLite)
-- LCD display for local environmental feedback
+- LCD for local environmental feedback
 
 ## 🔧 Technologies & Hardware Used
 - **Microcontrollers**: Arduino UNO, ESP32
@@ -36,7 +39,7 @@ This is a Year 1 Mini Collaborative Hardware Project developed under the CHWP mo
 - Ensuring consistent sensor accuracy and system reliability
 
 ## 📊 Future Improvements
-- Integrate solar-powered energy supply
+- Integrate a solar-powered energy supply
 - Add mobile app support for alerts and manual control
 - Expand data visualization dashboards
 
