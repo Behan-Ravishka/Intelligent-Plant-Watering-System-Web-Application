@@ -24,11 +24,11 @@ This is a Year 1 Mini Collaborative Hardware Project developed under the CHWP mo
 
 ## 👨‍💻 Project Contributors
 - M.A.G.K.K. Wijethunge
-- M.P.B.R. Perera
-- I.G.S.B. Rupasingha
-- N.N.D Piumantha
-- D. Samarasekara
-- V.H. Hendavitharana
+- M.P.B.R. Perera https://www.linkedin.com/in/behanravishkaperera
+- I.G.S.B. Rupasingha http://www.linkedin.com/in/sankharupasingha
+- N.N.D Piumantha http://www.linkedin.com/in/dilumpiumantha
+- D. Samarasekara https://www.linkedin.com/in/dinuka-samarasekara-32a989363/
+- V.H. Hendavitharana http://www.linkedin.com/in/venurihendavitharana
 
 ## ⚠️ Challenges Faced
 - Lack of access to local NPK sensors
