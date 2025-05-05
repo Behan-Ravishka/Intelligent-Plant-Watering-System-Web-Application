@@ -47,8 +47,9 @@ The "Intelligent Plant Watering System" is a low-cost, automated irrigation solu
 ![Screenshot_4-5-2025_234823_](https://github.com/user-attachments/assets/5f3a0e29-208e-4451-b68c-a6edb772aa31)
 ![image](https://github.com/user-attachments/assets/f4d83dd9-308f-4afd-995a-7c510629883c)
 ![image](https://github.com/user-attachments/assets/043c52ab-f7d1-401e-8408-5467ac09aa04)
-
-
+![Chart](https://github.com/user-attachments/assets/08f7945a-271c-43f7-8b3b-01073207a00d)
+![Soil Moisture](https://github.com/user-attachments/assets/3ce34d49-61ec-4d81-802f-c9852ecb75f2)
+![Local Database](https://github.com/user-attachments/assets/ba74209e-f9aa-49f6-83ec-fb08d9ed5c4a)
 
 ---
 
